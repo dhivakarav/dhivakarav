@@ -1,52 +1,24 @@
-# Hey, I'm Dhivakar A V
+## 👋 Hi, I'm Dhivakar A V
 
- B.Tech – Computer Science & Engineering (AI & ML)  
- Trichy, India  
-  
+🎓 B.Tech CSE (AI & ML)  
+🤖 Interested in AI, ML, Full-Stack & Problem Solving  
+🚀 Building real-world projects with modern tech
+### 🏆 Achievements
+- 🥇 HackerRank Problem Solving (Basic) Certified
+- 📌 MongoDB Hands-on Experience
+### ⚙️ Technical Stack
 
-I am a motivated Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, Full-Stack Development, and Problem Solving**. I enjoy building real-world applications and continuously improving my technical skills.
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+### 📊 GitHub Stats
 
----
+![Dhivakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight)
 
-##  Achievements & Certifications
-- HackerRank – **Problem Solving (Basic) Certification**
--  **MongoDB Certification** (Hands-on database & Atlas experience)
--  Strong foundation in **Data Structures & Algorithms**
--  Actively working on real-world projects
-
----
-
-##  Technical Stack
-
-### 💻Programming Languages
-- Python  
-- C  
-- C++  
-
-###  Web & Backend
-- HTML  
-- CSS  
-- JavaScript  
-- Node.js  
-
-###  Databases
-- MongoDB  
-- MySQL  
-
-### AI / Machine Learning
-- TensorFlow  
-- PyTorch  
-- OpenCV  
-
-###  Tools & Platforms
-- Git & GitHub  
-- Linux  
-- MongoDB Atlas  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.v)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=tokyonight)
+### 🔗 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/Dhivakar A V
+- 📧 Email: dhivakar271205@gmail.com
