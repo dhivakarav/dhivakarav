@@ -14,11 +14,12 @@ Interested in AI, ML, Full-Stack & Problem Solving
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-###  GitHub Stats
 
-![Dhivakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Dhivakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=tokyonight)
-###  Connect with Me
--  LinkedIn: https://linkedin.com/in/Dhivakar A V
+
+-  LinkedIn:https://www.linkedin.com/in/dhivakar-a-v-b58215377/
 -  Email: dhivakar271205@gmail.com
