@@ -27,9 +27,8 @@ Interested in AI, ML, Full-Stack & Problem Solving
 
 ## 📊 GitHub Stats
 
-![Dhivakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=tokyonight)
+![Dhivakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=dark)
 
 -  LinkedIn:https://www.linkedin.com/in/dhivakar-a-v-b58215377/
 -  Email: dhivakar271205@gmail.com
