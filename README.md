@@ -7,12 +7,12 @@ I am a passionate **Computer Science Engineer** specializing in **Artificial Int
 
 ---
 
-### 💻 What I’m Working On:
-- 🔭 **Currently Building:** A high-performance **FLAMES Engine** with real-time data persistence using **React** and **Supabase**.
-- 🧠 **Learning:** Advanced **Deep Learning** architectures and **Model Deployment** strategies.
-- ⚡ **Focus:** Optimizing string manipulation algorithms and exploring **Predictive Analytics**.
-- 🤝 **Open to:** Collaborating on **Open Source** AI projects and Full-Stack web applications.
-- 
+### What I’m Working On:
+
+-  **Learning:** Advanced **Deep Learning** architectures and **Model Deployment** strategies.
+-  **Focus:** Optimizing string manipulation algorithms and exploring **Predictive Analytics**.
+-  **Open to:** Collaborating on **Open Source** AI projects and Full-Stack web applications.
+
 ### Technical Stack
 
 **Frontend & Design**
