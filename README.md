@@ -3,10 +3,6 @@
  B.Tech CSE (AI & ML)  
 Interested in AI, ML, Full-Stack & Problem Solving  
  Building real-world projects with modern tech
-### Achievements
--  HackerRank Problem Solving (Basic) Certified
--  MongoDB Hands-on Experience
-###  Technical Stack
 
 ### Technical Stack
 
