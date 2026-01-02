@@ -3,7 +3,16 @@
  B.Tech CSE (AI & ML)  
 Interested in AI, ML, Full-Stack & Problem Solving  
  Building real-world projects with modern tech
+I am a passionate **Computer Science Engineer** specializing in **Artificial Intelligence and Machine Learning**. I bridge the gap between complex backend algorithms and modern, user-centric frontend experiences. My goal is to build intelligent applications that solve real-world problems.
 
+---
+
+### 💻 What I’m Working On:
+- 🔭 **Currently Building:** A high-performance **FLAMES Engine** with real-time data persistence using **React** and **Supabase**.
+- 🧠 **Learning:** Advanced **Deep Learning** architectures and **Model Deployment** strategies.
+- ⚡ **Focus:** Optimizing string manipulation algorithms and exploring **Predictive Analytics**.
+- 🤝 **Open to:** Collaborating on **Open Source** AI projects and Full-Stack web applications.
+- 
 ### Technical Stack
 
 **Frontend & Design**
