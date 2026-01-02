@@ -1,8 +1,7 @@
-##  Hi, I'm Dhivakar A V
-
- B.Tech CSE (AI & ML)  
+##  Dhivakar A V
+###  B.Tech CSE @ [SRM university]**
 Interested in AI, ML, Full-Stack & Problem Solving  
- Building real-world projects with modern tech
+Building real-world projects with modern tech
 I am a passionate **Computer Science Engineer** specializing in **Artificial Intelligence and Machine Learning**. I bridge the gap between complex backend algorithms and modern, user-centric frontend experiences. My goal is to build intelligent applications that solve real-world problems.
 
 ---
