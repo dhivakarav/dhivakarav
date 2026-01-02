@@ -30,7 +30,6 @@ Interested in AI, ML, Full-Stack & Problem Solving
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=dracula)
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhivakarav&theme=tokyonight&no-bg=true&v=jan2026)
-
+[![trophies](https://github-profile-trophy.vercel.app/?username=dhivakarav)](https://github.com/ryo-ma/github-profile-trophy)
 -  LinkedIn:https://www.linkedin.com/in/dhivakar-a-v-b58215377/
 -  Email: dhivakar271205@gmail.com
