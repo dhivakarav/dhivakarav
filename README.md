@@ -25,10 +25,10 @@ Interested in AI, ML, Full-Stack & Problem Solving
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 📊 GitHub Stats
 
-![Dhivakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=dark)
+### 📊 GitHub Stats
+![Dhivakar's Stats](https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=tokyonight)
 
 -  LinkedIn:https://www.linkedin.com/in/dhivakar-a-v-b58215377/
 -  Email: dhivakar271205@gmail.com
