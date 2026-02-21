@@ -11,7 +11,7 @@ I am a passionate **Computer Science Engineer** specializing in **Artificial Int
 -  **Learning:** Advanced **Deep Learning** architectures and **Model Deployment** strategies.
 -  **Focus:** Optimizing string manipulation algorithms and exploring **Predictive Analytics**.
 -  **Open to:** Collaborating on **Open Source** AI projects and Full-Stack web applications.
- 
+  
 ### Technical Stack
 
 **Frontend & Design**
