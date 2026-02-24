@@ -12,7 +12,7 @@ I am a passionate **Computer Science Engineer** specializing in **Artificial Int
 -  **Focus:** Optimizing string manipulation algorithms and exploring **Predictive Analytics**.   
 -  **Open to:** Collaborating on **Open Source** AI projects and Full-Stack web applications.
   
-### Technical Stack
+### Technical Stack   
 
 **Frontend & Design**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
