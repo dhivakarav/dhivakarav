@@ -18,29 +18,29 @@
 
 <br>
 
-## 🧠 about me
+## about me
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 I'm a CS engineer who likes the part most people skip — the layer between *"it works in a notebook"* and *"it survives real traffic."* Caching, latency, multi-tenancy: the unglamorous infra that makes AI products actually usable. I build that, then put a clean frontend on top.
 
-- 🔭 Currently building **LLM inference infrastructure**
-- 🌱 Learning **deep learning architectures** & **model deployment**
-- 🏆 Won **1st Prize at CARE Hack 2026** for a fraud-detection system
-- 💬 Ask me about **semantic caching, vector search, or React**
-- ⚡ Fun fact: most of my best fixes happen after midnight
+-  Currently building **LLM inference infrastructure**
+-  Learning **deep learning architectures** & **model deployment**
+-  Won **1st Prize at CARE Hack 2026** for a fraud-detection system
+-  Ask me about **semantic caching, vector search, or React**
+-  Fun fact: most of my best fixes happen after midnight
 
 <br clear="right">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=50&section=header" width="100%"/>
 
-## 🚀 featured builds
+##  featured builds
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 [semantic-cache](https://github.com/dhivakarav/semantic-cache)
+###  [semantic-cache](https://github.com/dhivakarav/semantic-cache)
 **Distributed semantic caching for LLM inference**
 OpenAI-compatible proxy · Qdrant ANN search · TTL invalidation · multi-tenancy · streaming SSE
 
@@ -50,9 +50,9 @@ OpenAI-compatible proxy · Qdrant ANN search · TTL invalidation · multi-tenanc
 </td>
 <td width="50%">
 
-### 🏆 [brainx-nsap-ai](https://github.com/dhivakarav/brainx-nsap-ai)
+###  [brainx-nsap-ai](https://github.com/dhivakarav/brainx-nsap-ai)
 **NSAP-AI Fraud Detection Portal**
-🥇 **1st Prize — CARE Hack 2026**
+ **1st Prize — CARE Hack 2026**
 Flags fraudulent claims on deceased beneficiaries under India's NSAP
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -63,7 +63,7 @@ Flags fraudulent claims on deceased beneficiaries under India's NSAP
 <tr>
 <td width="50%">
 
-### 💪 [HyperFit](https://github.com/dhivakarav/HyperFit)
+###  [HyperFit](https://github.com/dhivakarav/HyperFit)
 **Fitness tracking app**
 Full-stack TypeScript build outside the AI stack
 
@@ -72,7 +72,7 @@ Full-stack TypeScript build outside the AI stack
 </td>
 <td width="50%">
 
-### 👁️ [Netra-Ai](https://github.com/dhivakarav/Netra-Ai)
+### [Netra-Ai](https://github.com/dhivakarav/Netra-Ai)
 **Computer vision project**
 Exploring practical perception models
 
@@ -84,7 +84,7 @@ Exploring practical perception models
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=50&section=header" width="100%"/>
 
-## 🛠️ tech stack
+##  tech stack
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Exploring practical perception models
 
 </div>
 
-### 🐍 contribution snake
+### contribution snake
 
 <div align="center">
 
@@ -136,12 +136,12 @@ Exploring practical perception models
 
 <div align="center">
 
-### 📫 let's build something
+###  let's build something
 
 <a href="https://www.linkedin.com/in/dhivakar-a-v-b58215377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dhivakar271205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<sub>⭐ from one of my repos if you find something useful — and yes, this README is more animated than half my actual projects.</sub>
+<sub> from one of my repos if you find something useful — and yes, this README is more animated than half my actual projects.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=footer" width="100%"/>
 
