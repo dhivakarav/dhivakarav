@@ -1,94 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=220&section=header&text=Dhivakar%20A%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20%C2%B7%20Building%20things%20that%20run%20in%20production&descAlignY=55&descSize=18" width="100%"/>
+<img src="./assets/fire-ice-banner.svg" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=FF4500,38BDF8&center=true&vCenter=true&width=650&height=50&lines=Half+fire+%F0%9F%94%A5+half+ice+%E2%9D%84%EF%B8%8F+%E2%80%94+all+code;B.Tech+CSE+%40+SRM+University;Building+LLM+infra+that+doesn%27t+melt+under+load;1st+Prize+%F0%9F%8F%86+CARE+Hack+2026;Shipping+Jobora+%E2%80%94+real+jobs%2C+real+applies" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/dhivakar-a-v-b58215377/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-FF4500?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
 </a>
 <a href="mailto:dhivakar271205@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=dhivakarav&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=B.Tech+CSE+%40+SRM+University;Building+LLM+infra+that+doesn%27t+fall+over;1st+Prize+%F0%9F%8F%86+CARE+Hack+2026;Caching%2C+vectors%2C+and+late-night+debugging;Open+to+AI+%2F+ML+and+full-stack+collabs" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## about me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:1a1a2e,100:38BDF8&height=60&section=header" width="100%"/>
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+## 🔥 about me ❄️
 
-I'm a CS engineer who likes the part most people skip — the layer between *"it works in a notebook"* and *"it survives real traffic."* Caching, latency, multi-tenancy: the unglamorous infra that makes AI products actually usable. I build that, then put a clean frontend on top.
+<img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
--  Currently building **LLM inference infrastructure**
--  Learning **deep learning architectures** & **model deployment**
--  Won **1st Prize at CARE Hack 2026** for a fraud-detection system
--  Ask me about **semantic caching, vector search, or React**
--  Fun fact: most of my best fixes happen after midnight
+Two temperatures, one engineer. The **fire** is shipping fast — hackathons, prototypes, late-night builds. The **ice** is the cold, deliberate infra work — caching layers, vector search, systems that don't melt under real traffic.
+
+- 🔥 **Hot right now:** building **Jobora**, a real job-discovery & apply platform
+- ❄️ **Cold & precise:** distributed semantic caching for LLM inference
+- 🏆 **1st Prize — CARE Hack 2026** for an AI fraud-detection portal
+- 🌋 Currently learning deep learning architectures & model deployment
+- 🧊 Open to collaborating on AI/ML and full-stack projects
 
 <br clear="right">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=50&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1a1a2e,100:FF4500&height=50&section=header" width="100%"/>
 
-##  featured builds
+## ⚔️ featured builds
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  [semantic-cache](https://github.com/dhivakarav/semantic-cache)
-**Distributed semantic caching for LLM inference**
-OpenAI-compatible proxy · Qdrant ANN search · TTL invalidation · multi-tenancy · streaming SSE
+### 🔥 [Jobora](https://github.com/dhivakarav/joboraorg)
+**Real job discovery & assisted-apply platform**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+Aggregates genuine, currently-open roles straight from Greenhouse, Lever, Remotive, Arbeitnow, Adzuna & Jooble — no mock data. One-click apply to the *real* application page, full tracker, admin-approved auth.
+
+![React](https://img.shields.io/badge/-React-FF4500?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-38BDF8?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  [brainx-nsap-ai](https://github.com/dhivakarav/brainx-nsap-ai)
-**NSAP-AI Fraud Detection Portal**
- **1st Prize — CARE Hack 2026**
-Flags fraudulent claims on deceased beneficiaries under India's NSAP
+### ❄️ [semantic-cache](https://github.com/dhivakarav/semantic-cache)
+**Distributed semantic caching for LLM inference**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+OpenAI-compatible proxy · Qdrant ANN search · TTL invalidation · multi-tenancy · streaming SSE.
+
+![Python](https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logo=python&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF4500?style=flat-square&logo=qdrant&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  [HyperFit](https://github.com/dhivakarav/HyperFit)
-**Fitness tracking app**
-Full-stack TypeScript build outside the AI stack
+### 🏆 [brainx-nsap-ai](https://github.com/dhivakarav/brainx-nsap-ai)
+**NSAP-AI Fraud Detection Portal**
+🥇 **1st Prize — CARE Hack 2026**
+Flags fraudulent claims on deceased beneficiaries under India's NSAP.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/-ML-38BDF8?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [Netra-Ai](https://github.com/dhivakarav/Netra-Ai)
-**Computer vision project**
-Exploring practical perception models
+### 💪 [HyperFit](https://github.com/dhivakarav/HyperFit) · 👁️ [Netra-Ai](https://github.com/dhivakarav/Netra-Ai)
+Fitness tracker in TypeScript, and a computer-vision project exploring practical perception models.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FF4500?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-38BDF8?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=50&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:1a1a2e,100:38BDF8&height=50&section=header" width="100%"/>
 
-##  tech stack
+## 🛠️ tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,react,ts,js,tailwind,nodejs,supabase,vercel,docker,git&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,sklearn,react,vite,ts,js,tailwind,nodejs,supabase,docker&theme=dark&perline=6" />
 
 </div>
 
@@ -96,33 +99,33 @@ Exploring practical perception models
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4500?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-38BDF8?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-FF4500?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF4500?style=for-the-badge&logo=pytorch&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-38BDF8?style=for-the-badge&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF4500?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=50&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1a1a2e,100:FF4500&height=50&section=header" width="100%"/>
 
-## 📊 stats that update themselves
+## 📊 stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivakarav&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhivakarav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=FF4500&icon_color=38BDF8&text_color=ffffff&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivakarav&theme=tokyonight&hide_border=true&background=0d1117&ring=FF4500&fire=38BDF8&currStreakLabel=FF4500" width="35%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakarav&theme=tokyo-night&hide_border=true" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarav&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&bg_color=0d1117" width="45%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakarav&theme=tokyo-night&hide_border=true&color=FF4500&line=38BDF8&bg_color=0d1117" width="55%" />
 
 </div>
 
-### contribution snake
+### 🐍 contribution snake — fire & ice edition
 
 <div align="center">
 
@@ -130,19 +133,17 @@ Exploring practical perception models
 
 </div>
 
-> The snake graph needs a one-time GitHub Action in your profile repo to animate *your* real contribution grid — setup steps in the message below.
+> Needs the one-time GitHub Action below to animate *your* real grid in fire/ice colors instead of this generic preview.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=50&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:1a1a2e,100:38BDF8&height=50&section=header" width="100%"/>
 
 <div align="center">
 
-###  let's build something
+### 🔥❄️ let's build something that runs hot and stays cool
 
-<a href="https://www.linkedin.com/in/dhivakar-a-v-b58215377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dhivakar271205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dhivakar-a-v-b58215377/"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
+<a href="mailto:dhivakar271205@gmail.com"><img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
 
-<sub> from one of my repos if you find something useful — and yes, this README is more animated than half my actual projects.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:1a1a2e,100:38BDF8&height=120&section=footer" width="100%"/>
 
 </div>
