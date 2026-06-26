@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1qMnlzdTFuNzRrOTV1b2E3ZHAyN2JndDJ2NmthZnFocDFwb3c2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpt2bhrZSRvWpS8/giphy.gif" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2600&pause=1200&color=FFAA00&center=true&vCenter=true&width=700&height=70&lines=DHIVAKAR+A+V" alt="name" />
+<img src="./assets/jumping-name.svg" width="420" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=FF4500,38BDF8&center=true&vCenter=true&width=650&height=50&lines=Half+fire+%F0%9F%94%A5+half+ice+%E2%9D%84%EF%B8%8F+%E2%80%94+all+code;B.Tech+CSE+%40+SRM+University;Building+LLM+infra+that+doesn%27t+melt+under+load;1st+Prize+%F0%9F%8F%86+CARE+Hack+2026;Shipping+Jobora+%E2%80%94+real+jobs%2C+real+applies" alt="Typing SVG" />
 
